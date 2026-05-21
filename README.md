@@ -2,9 +2,9 @@
 
 # 🌾 KrushiScan
 
-KrushiScan is a Flutter-based smart agriculture application developed as a Final Year Project. The app helps farmers identify crop diseases and get useful agricultural insights using image scanning and modern mobile technology.
+KrushiScan is a Flutter-based smart agriculture application developed as a Final Year Project. The app helps farmers identify Fake fertilizers detection and get useful agricultural insights using image scanning and modern mobile technology.
 
-The main goal of this project is to support farmers with quick disease detection and improve agricultural productivity using AI-powered solutions.
+The main goal of this project is to support farmers with quick detection and improve agricultural productivity using AI-powered solutions.
 
 ---
 
